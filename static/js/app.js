@@ -29,7 +29,7 @@ function handleClick() {
     
     // grab the datetime value from the filter
     let date = d3.select("#datetime").property("value");
-    let filteredData= tabelData;
+    let filteredData= tableData;
 
     // check to see if a date wad entered and filter the
     // data using the date
