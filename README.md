@@ -5,4 +5,5 @@ Using javascript and HTML, a website for UFO sightings has been created. The web
   Here are some step to step directions to help navigate through the UFO sightings website.
 
   When you first visit the website, you see on the homepage, a section on the left hand side that says "Filter search" an image below shows an example of what it should look like. 
-![filter_img (Small)](https://user-images.githubusercontent.com/117749494/219171988-4cbfec6d-720d-47e0-9823-61909b6da21c.PNG)
+
+![filter_img (Small) (Phone)](https://user-images.githubusercontent.com/117749494/219172341-f04f6063-64e4-4230-a150-bb9624e2fcec.PNG)
