@@ -15,4 +15,5 @@ The image below provides an example.
 
 Once the desired information is inputted into the Filter Search bar, the user must press the "Enter" button on the keyboard. Once completed the chart on the right should update to the filtered items. An image below will show the results, that has been filtered. 
 
-![filtered_data (Small)](https://user-images.githubusercontent.com/117749494/219174644-7e9c0ceb-e794-4428-baba-b88cebad0ab8.PNG)
+![filtered_data (Small)](https://user-images.githubusercontent.com/117749494/219175509-062841fc-ad35-4c5b-b37e-1b91f3d3f694.PNG)
+
