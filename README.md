@@ -13,6 +13,6 @@ The image below provides an example.
 
 ![filter_input (Small)](https://user-images.githubusercontent.com/117749494/219172951-639cb5a1-7e2d-4aad-b2cf-eda407f35a46.PNG)
 
-Once the desired information is input into the Filter Search bar, the user must press the "Enter" button on the keyboard. Once completed the chart on the right should have updated to the filtered items. An image below will show the results, that has been filtered. 
+Once the desired information is inputted into the Filter Search bar, the user must press the "Enter" button on the keyboard. Once completed the chart on the right should update to the filtered items. An image below will show the results, that has been filtered. 
 
 ![filtered_data (Small)](https://user-images.githubusercontent.com/117749494/219174644-7e9c0ceb-e794-4428-baba-b88cebad0ab8.PNG)
